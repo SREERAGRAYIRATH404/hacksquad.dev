@@ -1,0 +1,2 @@
+# hacksquad.dev
+hacksquad.dev
